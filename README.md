@@ -22,7 +22,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/koringascp/koringascp/blob/main/github.svg" />
 
- 	https://github-readme-stats.vercel.app/api/top-langs/?offmak={offmak}&theme=blue-green
+
  
  ![Snake animation](https://github.com/offmak/offmak/blob/output/github-contribution-grid-snake.svg)
  
