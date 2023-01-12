@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]( https://www.twitch.tv/makarraoo )
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]( https://steamcommunity.com/id/Makarraoo/ )
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offmak&show_icons=true&theme=radical)
+
 
 ### **Softwares:**
 [![Photoshop](https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15)](https://github.com/offmak)
