@@ -1,4 +1,9 @@
-### **Olá! Eu sou o Viktor** 👻
+### **Levy Vitor**
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=offmak&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-offmak.vercel.app/api/top-langs/?username=offmak_icons=true&theme=radical&layout=compact" />
+ </div>
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]( https://www.youtube.com/channel/UChXHPYRsWBgiZaHZm4t00Vw )
@@ -22,10 +27,7 @@
 </div><br/>
 
 
- 
- ![Snake animation](https://github.com/offmak/offmak/blob/output/github-contribution-grid-snake.svg)
- 
- 
+
 
  <div>
  
